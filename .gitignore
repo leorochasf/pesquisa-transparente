@@ -1,0 +1,13 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.venv*/
+.pytest_cache/
+data/*.db
+.env
+.env.local
+.overclock-app/
+*.egg-info/
+dist/
+build/
